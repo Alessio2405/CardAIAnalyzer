@@ -1,4 +1,4 @@
-# 🃏 Card Evaluator - AI-Powered Pokémon Card Analysis
+# 🃏 Card Evaluator - AI-Powered TCGs Card Analysis
 
 Welcome to **Card Evaluator**, an AI-driven project designed to analyze and evaluate trading cards using computer vision and language models.
 This tool identifies cards from video input or images, assesses their condition, and estimates their value based on real-world market data.
